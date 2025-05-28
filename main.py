@@ -1,4 +1,5 @@
-from gui import launch_menu
+# main.py
+from gui import main_gui
 
 if __name__ == "__main__":
-    launch_menu()
+    main_gui()
